@@ -24,12 +24,12 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #181818;
+  background-color: royalblue;
   text-decoration: none;
   color: #fff;
 }
 
 .image-btn {
-  background-color: pink;
-  color: #181818;
+  background-color: slateblue;
+  color: #fff;
 }
